@@ -1,0 +1,66 @@
+C:\Users\axa97960\Desktop\Project\Chat Using ASP.NET\Chat Using ASP.NET\bin\ApplicationInsights.config
+C:\Users\axa97960\Desktop\Project\Chat Using ASP.NET\Chat Using ASP.NET\bin\roslyn\csc.exe
+C:\Users\axa97960\Desktop\Project\Chat Using ASP.NET\Chat Using ASP.NET\bin\roslyn\csc.exe.config
+C:\Users\axa97960\Desktop\Project\Chat Using ASP.NET\Chat Using ASP.NET\bin\roslyn\csc.rsp
+C:\Users\axa97960\Desktop\Project\Chat Using ASP.NET\Chat Using ASP.NET\bin\roslyn\csi.exe
+C:\Users\axa97960\Desktop\Project\Chat Using ASP.NET\Chat Using ASP.NET\bin\roslyn\csi.rsp
+C:\Users\axa97960\Desktop\Project\Chat Using ASP.NET\Chat Using ASP.NET\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\axa97960\Desktop\Project\Chat Using ASP.NET\Chat Using ASP.NET\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\axa97960\Desktop\Project\Chat Using ASP.NET\Chat Using ASP.NET\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\axa97960\Desktop\Project\Chat Using ASP.NET\Chat Using ASP.NET\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\axa97960\Desktop\Project\Chat Using ASP.NET\Chat Using ASP.NET\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\axa97960\Desktop\Project\Chat Using ASP.NET\Chat Using ASP.NET\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\axa97960\Desktop\Project\Chat Using ASP.NET\Chat Using ASP.NET\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\axa97960\Desktop\Project\Chat Using ASP.NET\Chat Using ASP.NET\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\axa97960\Desktop\Project\Chat Using ASP.NET\Chat Using ASP.NET\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\axa97960\Desktop\Project\Chat Using ASP.NET\Chat Using ASP.NET\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\axa97960\Desktop\Project\Chat Using ASP.NET\Chat Using ASP.NET\bin\roslyn\System.AppContext.dll
+C:\Users\axa97960\Desktop\Project\Chat Using ASP.NET\Chat Using ASP.NET\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\axa97960\Desktop\Project\Chat Using ASP.NET\Chat Using ASP.NET\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\axa97960\Desktop\Project\Chat Using ASP.NET\Chat Using ASP.NET\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\axa97960\Desktop\Project\Chat Using ASP.NET\Chat Using ASP.NET\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\axa97960\Desktop\Project\Chat Using ASP.NET\Chat Using ASP.NET\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\axa97960\Desktop\Project\Chat Using ASP.NET\Chat Using ASP.NET\bin\roslyn\vbc.exe
+C:\Users\axa97960\Desktop\Project\Chat Using ASP.NET\Chat Using ASP.NET\bin\roslyn\vbc.exe.config
+C:\Users\axa97960\Desktop\Project\Chat Using ASP.NET\Chat Using ASP.NET\bin\roslyn\vbc.rsp
+C:\Users\axa97960\Desktop\Project\Chat Using ASP.NET\Chat Using ASP.NET\bin\roslyn\VBCSCompiler.exe
+C:\Users\axa97960\Desktop\Project\Chat Using ASP.NET\Chat Using ASP.NET\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\axa97960\Desktop\Project\Chat Using ASP.NET\Chat Using ASP.NET\bin\Chat Using ASP.NET.dll.config
+C:\Users\axa97960\Desktop\Project\Chat Using ASP.NET\Chat Using ASP.NET\bin\Chat Using ASP.NET.dll
+C:\Users\axa97960\Desktop\Project\Chat Using ASP.NET\Chat Using ASP.NET\bin\Chat Using ASP.NET.pdb
+C:\Users\axa97960\Desktop\Project\Chat Using ASP.NET\Chat Using ASP.NET\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\axa97960\Desktop\Project\Chat Using ASP.NET\Chat Using ASP.NET\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\axa97960\Desktop\Project\Chat Using ASP.NET\Chat Using ASP.NET\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\axa97960\Desktop\Project\Chat Using ASP.NET\Chat Using ASP.NET\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\axa97960\Desktop\Project\Chat Using ASP.NET\Chat Using ASP.NET\bin\Microsoft.AI.Web.dll
+C:\Users\axa97960\Desktop\Project\Chat Using ASP.NET\Chat Using ASP.NET\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\axa97960\Desktop\Project\Chat Using ASP.NET\Chat Using ASP.NET\bin\Microsoft.ApplicationInsights.dll
+C:\Users\axa97960\Desktop\Project\Chat Using ASP.NET\Chat Using ASP.NET\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\axa97960\Desktop\Project\Chat Using ASP.NET\Chat Using ASP.NET\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\axa97960\Desktop\Project\Chat Using ASP.NET\Chat Using ASP.NET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\axa97960\Desktop\Project\Chat Using ASP.NET\Chat Using ASP.NET\bin\Microsoft.Owin.dll
+C:\Users\axa97960\Desktop\Project\Chat Using ASP.NET\Chat Using ASP.NET\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\axa97960\Desktop\Project\Chat Using ASP.NET\Chat Using ASP.NET\bin\Microsoft.Owin.Security.dll
+C:\Users\axa97960\Desktop\Project\Chat Using ASP.NET\Chat Using ASP.NET\bin\Newtonsoft.Json.dll
+C:\Users\axa97960\Desktop\Project\Chat Using ASP.NET\Chat Using ASP.NET\bin\Owin.dll
+C:\Users\axa97960\Desktop\Project\Chat Using ASP.NET\Chat Using ASP.NET\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\axa97960\Desktop\Project\Chat Using ASP.NET\Chat Using ASP.NET\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\axa97960\Desktop\Project\Chat Using ASP.NET\Chat Using ASP.NET\bin\Microsoft.AI.Web.xml
+C:\Users\axa97960\Desktop\Project\Chat Using ASP.NET\Chat Using ASP.NET\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\axa97960\Desktop\Project\Chat Using ASP.NET\Chat Using ASP.NET\bin\Microsoft.ApplicationInsights.xml
+C:\Users\axa97960\Desktop\Project\Chat Using ASP.NET\Chat Using ASP.NET\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\axa97960\Desktop\Project\Chat Using ASP.NET\Chat Using ASP.NET\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\axa97960\Desktop\Project\Chat Using ASP.NET\Chat Using ASP.NET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\axa97960\Desktop\Project\Chat Using ASP.NET\Chat Using ASP.NET\bin\Microsoft.Owin.xml
+C:\Users\axa97960\Desktop\Project\Chat Using ASP.NET\Chat Using ASP.NET\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\axa97960\Desktop\Project\Chat Using ASP.NET\Chat Using ASP.NET\bin\Microsoft.Owin.Security.xml
+C:\Users\axa97960\Desktop\Project\Chat Using ASP.NET\Chat Using ASP.NET\bin\Newtonsoft.Json.xml
+C:\Users\axa97960\Desktop\Project\Chat Using ASP.NET\Chat Using ASP.NET\obj\Debug\Chat Using ASP.NET.csprojResolveAssemblyReference.cache
+C:\Users\axa97960\Desktop\Project\Chat Using ASP.NET\Chat Using ASP.NET\obj\Debug\Chat Using ASP.NET.dll
+C:\Users\axa97960\Desktop\Project\Chat Using ASP.NET\Chat Using ASP.NET\obj\Debug\Chat Using ASP.NET.pdb
+C:\Users\axa97960\Desktop\Project\Chat Using ASP.NET\Chat Using ASP.NET\bin\System.Net.Http.Formatting.dll
+C:\Users\axa97960\Desktop\Project\Chat Using ASP.NET\Chat Using ASP.NET\bin\System.Web.Http.dll
+C:\Users\axa97960\Desktop\Project\Chat Using ASP.NET\Chat Using ASP.NET\bin\System.Web.Http.WebHost.dll
+C:\Users\axa97960\Desktop\Project\Chat Using ASP.NET\Chat Using ASP.NET\bin\System.Net.Http.Formatting.xml
+C:\Users\axa97960\Desktop\Project\Chat Using ASP.NET\Chat Using ASP.NET\bin\System.Web.Http.xml
+C:\Users\axa97960\Desktop\Project\Chat Using ASP.NET\Chat Using ASP.NET\bin\System.Web.Http.WebHost.xml
